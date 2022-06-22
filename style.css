@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 255, 249);
+    color: cadetblue;
+}
+
+.span {
+    font-weight: lighter;
+    font-style: italic;
+}
+button{
+    background-color: darkcyan;
+}
+
+table{
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+.margin{
+    margin: 5%;
+}
